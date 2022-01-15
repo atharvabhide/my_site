@@ -1,0 +1,137 @@
+body
+{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+}
+h1
+{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', serif;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+h2
+{
+    color: #66BFBF;
+    font-family: 'Montserrat', serif;
+    font-size: 2.5rem;
+}
+h3
+{
+    color: #11999E;
+    font-family: 'Montserrat', serif;
+}
+a
+{
+    color: #11999E;
+}
+.top-container
+{   
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.subtitle
+{
+    font-weight: bolder;
+}
+.skill-row
+{
+    width: 50%;
+    text-align: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 2;
+}
+.computer
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.dsa
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.profile
+{
+    margin-top: 50px;
+}
+hr
+{
+    width: 3%;
+    border-style: dotted;
+    border-bottom-style: none;
+    border-width: 7px;
+    color: #EAF6F6;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.bottom-container
+{
+    color: #11999E;
+    background-color: #66BFBF;
+    margin-bottom: -20px;
+    padding: 30px;
+}
+a
+{
+    margin: 30px;
+    text-decoration: none;
+}
+a:hover
+{
+    color: white;
+}
+.copyright
+{
+    margin-bottom: -30px;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    font-size: 1.5rem;
+    font-weight: 100;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 70px;
+ }
+ 
+ .btn:hover {
+    background: #1E666B;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
